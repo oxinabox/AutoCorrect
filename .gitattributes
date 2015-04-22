@@ -1,6 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+#Fix Autohotkey
+*.ahk	 diff=astextplain
+
+
 # Custom for Visual Studio
 *.cs     diff=csharp
 
