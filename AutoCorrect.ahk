@@ -5311,8 +5311,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 
 
 
-::embeeding::embedding
-::Embeedings::Embeddings
+::embeedings::embeddings
 ::vetors::vectors 
 ::Standord::Stanford
 ::labelled::labeled
