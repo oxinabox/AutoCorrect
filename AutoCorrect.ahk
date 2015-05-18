@@ -5315,3 +5315,12 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::vetors::vectors 
 ::Standord::Stanford
 ::labelled::labeled
+::stocatically::stochastically
+::backpropergation::backpropergation
+::hungery::hungry
+::reverable::reversible
+::relevent::relevant
+::relivance::relevance
+::repressentation::representation
+::Recussive::Recursive
+::alternitively::alternatively
